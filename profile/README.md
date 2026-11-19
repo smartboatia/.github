@@ -24,7 +24,7 @@ Boats produce a lot of useful data: wind, position, batteries, engine, manoeuvre
 - 📔 **Logbook that writes itself.** Casting off, anchoring, mooring and manoeuvres, logged automatically.
 - ⚓ **Boat monitoring.** Anchor watch, batteries and position at a glance, on board and ashore.
 - 🌬️ **Weather and environment.** Real trends measured by your own boat, exactly where you are.
-- 🧭 **Plotter and navigation.** Your boat's data and charts on every device.
+- 🧭 **Plotter and navigation.** Instruments and charts on your phone and tablet.
 - 📱 **Community and sharing.** Share your trips with crew, family and friends.
 - 🏆 **Sailing performance.** Polars from your own data, trim tips and manoeuvre analysis.
 
@@ -34,6 +34,6 @@ Your data belongs to you. We use open interfaces and connect to what you already
 
 ### Who we are
 
-A team of sailors from Travemünde on the Baltic Sea, Germany. Every mile sailed with Smartboatia also helps the oceans: environmental data from boats flows into ocean research with partners such as GEOMAR, AWI and the German Weather Service (DWD).
+A team of sailors from Travemünde on the Baltic Sea, Germany. Smartboatia is built so that environmental data from boats can support ocean research, if you choose to share it.
 
 <p align="center"><b>Sail smarter. Sail together. Protect the oceans.</b></p>
